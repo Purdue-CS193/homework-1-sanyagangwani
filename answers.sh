@@ -21,7 +21,7 @@ $ mkdir Programs/C++
 $ mv ~/Programs/Age.cpp ~/Programs/C++/Age.cpp
 
 # Task 7
-$ cp ~/Programs/Java ~/Homework/CS180/Project_1
+$ cp -r ~/Programs/Java ~/Homework/CS180/Project_1
 
 # Task 8
 $ mv ~/Programs/Count.c ~/Programs/Goodbye.c ~/Programs/C
