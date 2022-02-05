@@ -36,12 +36,12 @@ touch Homework/POL141/Essay.txt
 ls /homes/gangwans/homework-1-sanyagangwani
 
 # Task 12
-:
+:'
 
 Type your vim/nano customizations below:
  set number 
  set showmatch
  set showmatch
  set autoindent expandtab 
-
+'
 
