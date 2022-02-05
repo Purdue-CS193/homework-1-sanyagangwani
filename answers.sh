@@ -1,12 +1,12 @@
-#!/usr/bin/env bas
-  # Changes to the ORIGIN directory
+#!/usr/bin/env bash
+ # Changes to the ORIGIN directory
   cd ORIGIN
  
  # Task 1
-   mv Homework/MA165/HW2.txt Homework/MA165/HW1.txt
+ mv Homework/MA165/HW2.txt Homework/MA165/HW1.txt
   
  # Task 2
-  rm -rf Memes/SpongeBob/money.jpeg
+ rm -rf Memes/SpongeBob/money.jpeg
  
  # Task 3
  mv Memes/"Star Wars"/fafsa.jpg Memes/SpongeBob/fafsa.jpg
@@ -33,7 +33,7 @@
  touch Homework/POL141/Essay.txt
 
  # Task 11
- ls /homes/gangwans/homework-1-sanyagangwani
+ ls ..
 
  # Task 12
  :'
